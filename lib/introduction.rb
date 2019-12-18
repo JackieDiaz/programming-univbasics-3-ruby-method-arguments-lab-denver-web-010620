@@ -1,8 +1,8 @@
 def introduction(name)
 puts "Hi, my name is #{name}."
 end
-introduction(peter)
-introduction(paul)
+introduction("peter")
+introduction("paul")
 
 
 
